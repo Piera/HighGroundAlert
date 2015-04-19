@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Volcanic Hazard Management - Mount Rainier, USA</name>
+		<description><![CDATA[http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Mount Rainier</name>
+				<description><![CDATA[Mount Rainier is an active stratovolcano (also known as a composite volcano) in Pierce County, Washington, located 87 km southeast of Seattle, Washington, in the United States. <br>It is the highest peak in the Cascade Range at 4,392 m.<br>The most recent recorded volcanic eruption was between 1820 and 1854, but many eyewitnesses reported eruptive activity in 1858, 1870, 1879, 1882 and 1894 as well. As of 2008, there is no imminent risk of eruption, but geologists expect that the volcano will erupt again.<br>In the past, Rainier has had large debris avalanches, and has also produced enormous lahars (volcanic mudflows) due to the large amount of glacial ice present. Its lahars have reached all the way to the Puget Sound.<br>Source: http://en.wikipedia.org/wiki/Mount_Rainer (http://en.wikipedia.org/wiki/Mount_Rainer</p></p>)<br>geographyalltheway.com Volcanic Hazard Management - Mount Rainier, USA: http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm (http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm</p></p>)]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.75702900000002,46.850668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hazard Zones Map</name>
+				<description><![CDATA[Hazard zones for lahars, lava flows, and pyroclastic flows from Mount Rainier.The map shows areas that could be inundated if events similar in size to those of the past occurred today.<br>Source: http://pubs.usgs.gov/fs/2002/fs034-02/ (http://pubs.usgs.gov/fs/2002/fs034-02/</p></p>)<br>geographyalltheway.com Volcanic Hazard Management - Mount Rainier, USA: http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm (http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm</p></p>)]]></description>
+				<ExtendedData>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>House Number 1</name>
+				<description><![CDATA[geographyalltheway.com Volcanic Hazard Management - Mount Rainier, USA: http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm (http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm</p></p>)]]></description>
+				<styleUrl>#icon-ci-2</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.303198,47.187973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>House Number 2</name>
+				<description><![CDATA[geographyalltheway.com Volcanic Hazard Management - Mount Rainier, USA: http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm (http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm</p></p>)]]></description>
+				<styleUrl>#icon-ci-3</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.20772300000002,47.091587,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>House Number 5</name>
+				<description><![CDATA[geographyalltheway.com Volcanic Hazard Management - Mount Rainier, USA: http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm (http://www.geographyalltheway.com/igcse_geography/natural_environments/plate_tectonics/igcse_volcanoes_manage.htm</p></p>)]]></description>
+				<styleUrl>#icon-ci-4</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.05484,47.076173,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-ci-1'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-ci-2'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-ci-3'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-3.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-ci-4'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-4.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

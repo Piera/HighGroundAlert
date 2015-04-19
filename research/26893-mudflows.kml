@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folder>
+  <name>Rainier Mudflows</name>
+  <visibility>0</visibility>
+  <GroundOverlay>
+    <description>lahar: la har  (lähär)
+&lt;i&gt;n&lt;/i&gt;
+1. A landslide or mudflow of volcanic fragments on the flanks of a volcano. 
+2. The deposit produced by such a landslide.
+
+source: dictionary.com</description>
+    <name>Lahar Hazards</name>
+    <visibility>0</visibility>
+    <icon>http://vulcan.wr.usgs.gov/Imgs/Jpg/Rainier/Outreach/screen_poster_lahar_haz.jpg</icon>
+    <refreshPeriod>0</refreshPeriod>
+    <opacity>1</opacity>
+    <drawOrder>0</drawOrder>
+    <LatLonBox>
+      <north>47.38890411592824</north>
+      <south>46.41739686234254</south>
+      <east>-121.4340602521818</east>
+      <west>-122.5351580164582</west>
+      <rotation>0</rotation>
+    </LatLonBox>
+  </GroundOverlay>
+  <GroundOverlay>
+    <description>Holocene
+&lt;i&gt;adj&lt;/i&gt;
+Of or belonging to the geologic time, rock series, or sedimentary deposits of the more recent of the two epochs of the Quaternary Period, beginning at the end of the last Ice Age about 11,000 years ago and characterized by the development of human civilizations. 
+
+&lt;i&gt;n&lt;/i&gt;
+The Holocene Epoch or its system of deposits.
+
+source: dictionary.com</description>
+    <name>Holocene Mudflows</name>
+    <visibility>0</visibility>
+    <icon>http://www.uwsp.edu/geo/faculty/ozsvath/images/Mt._Rainier_mudflows.jpg</icon>
+    <refreshPeriod>0</refreshPeriod>
+    <opacity>1</opacity>
+    <drawOrder>0</drawOrder>
+    <LatLonBox>
+      <north>47.56947048564913</north>
+      <south>46.55297868628835</south>
+      <east>-121.3800952613249</east>
+      <west>-122.5898827641296</west>
+      <rotation>0</rotation>
+    </LatLonBox>
+  </GroundOverlay>
+</Folder>
