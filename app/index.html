@@ -30,6 +30,32 @@
   <meta charset="UTF-8">
   <title>Zerotype Website Template</title>
   <link rel="stylesheet" href="css/style.css" type="text/css">
+  
+  <style type="text/css">
+      #map-canvas { height: 600px; width: 600px; margin: 0; padding: 0;}
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?libraries=visualization&sensor=true">
+    </script>
+    <script type="text/javascript">
+      function initialize() {
+        var mapOptions = {
+          center: { lat: 47, lng: -122},
+          zoom: 8
+        };
+
+        var laharLayer = new google.maps.KmlLayer({
+          url: 'research/KML-zip_20150419075945.kml'
+        });
+
+        var map = new google.maps.Map(document.getElementById('map-canvas'),
+            mapOptions);
+
+        laharLayer.setMap(map);
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+  </script>
+
 </head>
 <body>
   <div id="header">
@@ -58,6 +84,10 @@
     </div>
     </div>
   </div>
+
+<br/><br/>
+<div id="map-canvas"></div>
+<br/><br/>
 
   <div id="footer">
     <div class="clearfix">
