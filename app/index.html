@@ -44,12 +44,12 @@
           zoom: 8
         };
 
-        var laharLayer = new google.maps.KmlLayer({
-          url: 'research/KML-zip_20150419075945.kml'
-        });
-
         var map = new google.maps.Map(document.getElementById('map-canvas'),
-            mapOptions);
+          mapOptions);
+
+        var laharLayer = new google.maps.KmlLayer({
+          url: 'https://raw.githubusercontent.com/Piera/HighGroundAlert/master/research/KML-zip_20150419075945.kml'
+        });
 
         laharLayer.setMap(map);
       }
