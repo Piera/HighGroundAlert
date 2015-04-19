@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ring-of-Fire.kml</name>
+	<open>1</open>
+	<StyleMap id="style_Template20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style_Template2_normal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style_Template2_highlight00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style_Template2_normal">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<div style="text-align:left;"><table width="400" style="text-align:left;"><tr> <td colspan="2"> <span style="font-size:1.5em; font-family:Times, serif; font-weight:bold; text-align:left;"><b>$[Title]</b></span><br> <br> <span style="te font-size:1.2em; text-align:left;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></div>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="style_Template2_normal0">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></body></html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style_Template2_highlight0">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></body></html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style_Template2_normal1">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></body></html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style_Template2_highlight00">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></body></html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style_Template2_normal2">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></body></html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl5">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2.9</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6e00aaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style_Template200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style_Template2_normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style_Template2_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style_Template2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style_Template2_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style_Template2_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style_Template2_highlight">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>11</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<div style="text-align:left;"><table width="400" style="text-align:left;"><tr> <td colspan="2"> <span style="font-size:1.5em; font-family:Times, serif; font-weight:bold; text-align:left;"><b>$[Title]</b></span><br> <br> <span style="text-align:left; font-size:1.2em; text-align:left;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></div>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.9</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6e00aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style_Template2_highlight01">
+		<IconStyle>
+			<scale>8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> Ring of Fire<br> <a href="http://www.cascadiachronicle.com">Cascadia Chronicle</a><br> </td> <td align="right"><img src="http://www.cascadiachronicle.com/images/fire.png" width="200px" height="200px"></td></tr></table></body></html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="style_Template201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style_Template2_normal2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style_Template2_highlight01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="folderRow11">
+		<name>Ring of Fire</name>
+		<open>1</open>
+		<Placemark id="p16">
+			<name>Katie Regan</name>
+			<open>1</open>
+			<snippet></snippet>
+			<styleUrl>#style_Template201</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value><![CDATA[<b>Life on the Ring of Fire</b>]]></value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p style="text-indent:25px;">At 10 years old, I felt my first earthquake. I paused in the hallway outside my bedroom and peered into the bathroom; the glass shower doors rattled back and forth, worn hand towels swayed on the rack. Our cocker spaniel howled in the backyard, exiled to spend the night outside because for hours prior he wouldn’t quiet down—no doubt issuing warning cries that we didn’t understand.  </p>         </br> <p style="text-indent:25px;">The shaking was over in seconds; I don’t remember what my father and brother were doing at the time, but neither felt it, and neither believed my cries of “earthquake!” until the 11 o’clock news reported that a Mariners game had been interrupted by 30 seconds of shaking.</p>         <p style="text-indent:25px;">Moderate in size at most, the 5.3-magnitude quake did little damage to western Washington: a handful of people fell to the ground, the walls in a few buildings cracked, and 15,000 homes temporarily lost power. It was a shallow quake, perhaps only three miles below the earth’s surface, the kind of earthquake that feels more dangerous than it really is. It was a nudge, just a gentle reminder that Washington lies along the Pacific Ring of Fire—that horseshoe-shaped war zone where 90 percent of the world’s earthquakes shatter the land and 75 percent of the world’s volcanoes boil and burst. It was a reminder that in the Pacific Northwest the earth is moving, always moving,</p>          <p style="text-indent:25px;">I like to think now that this was when I began to feel the earth’s restlessness, its anxious movement. I like to imagine that the reason I am an anxious person, afraid of remaining static and un-changed, is because the earth, the Pacific Northwest landscape, taught me to be. I want this distress that I feel to have purpose; I want to turn these flaws into something meaningful. So when I fret over benign pains in my chest and head, when I obsessively search for new jobs because I’ve lost interest in mine after only a few months, and when I worry that finishing graduate school and going home will just mean settling in, settling down, I shrug away the suggestion that I am just a nervous person—that I am just a person who needs to learn how to calm down, how to relax. Instead, I am a person shaped by the land that surrounds me; one who never learned to sit still upon the constantly moving ground, one who desired transformation in a place where mountains still swell and the continent inches ever westward, and one who is always, always waiting for disaster.</p>   </br>         <p style="text-indent:25px;">Threat looms constantly in Washington, a quiet, sleeping threat that most simply prefer to ignore. In the Pacific Northwest, we face the biggest earthquake danger in the country—megathrust quakes of magnitude 9.0 or greater. Colossal quakes guaranteed to demolish cities and devastate the region, to trigger 100-foot tall tsunamis that will obliterate coastal towns. Earthquakes 30 times more powerful than anything California’s infamous San Andreas Fault can deliver. Quakes that have the potential to end hundreds of thousands of lives. Geologists warn that when the earthquake comes, the shaking could last four full minutes, and the level of destruction will be worse than that of the 2011 Japanese earthquake.  </p>         <p style="text-indent:25px;">Our earthquake threat isn’t a question of <em>if</em>, but <em>when</em>. When will the earth’s stress-level reach a tipping point? When will it finally snap—solid, stable land suddenly buckling in a moment of upheaval, a moment when the pressure is just too much to bear?</p>  <p style="text-indent:25px;">We’ve built our homes, our cities, our schools in the Cascadia Subduction Zone, a 680-mile long fault running 50 miles offshore from southern BritishColumbia to northern California. The fault is a place where oceanic floor slips below the continent, pushes deeper and deeper toward the earth’s center, and makes a fiery transformation from crust to mantle. The fault is a spot of tension, an epicenter of stress; and it is long overdue for a release. Geologists claim that Cascadia ruptures about every 240 years, but ghost forests lining the Washington and Oregon coasts, uplifted land and seismic scars, ancient deaths in Japan from an “orphan tsunami,” and native tales of a battle between the Thunderbird and Whale date Cascadia’s last cataclysmic earthquake to the winter of 1700. Three-hundred and thirteen years have passed since the earth last relaxed her shoulders, last let out a long, rattling breath. We are overdue.</p>  <p style="text-indent:25px;">Is this why I nervously wait for something bad to happen? For a health crisis, for a failing grade, for a pink slip from my job? Has living in this place taught me to fear what I can’t control? Maybe this is why I clutch the armrests on airplane seats and swallow anti-anxiety pills whenever the wings rattle over rough air. Maybe this is why I obsessively measure my heart rate and press my fingers into my abdomen, looking for sore spots and strange new lumps. Maybe the energy on a fault line is one of fear, of unrest, of anxiety.</p>  <p style="text-indent:25px;">I nearly missed my second earthquake. In 2001, I had been dawdling in the cafeteria with friends one winter morning during my freshman year of high school, delaying the moment when we had to return to class for as long as possible, when the earth began to move. Taken by surprise on the second floor of the building, we thought at first it might have been a strong truck rumbling by, a giant gust of wind seizing the school. We didn’t see the way the ground moved outside, undulating and swelling as if it were a wooden dock floating on water.</p>  <p style="text-indent:25px;">We didn’t feel the full lurching effects for a few moments; we had to wait for the tremors to crawl up the walls, to reach toward the sky. But still, when they came, we lingered in confusion.  Even though the ground shook, the glass windows of the cafeteria rippled back and forth as if they were fabric blowing in the wind, cans of soda splashed across tables and lunch trays splattered to the floor, I stood dumbly next to my friends: is this an earthquake? A full 15 seconds must have passed before we thought to crawl under the nearest table and twist our bodies into protective positions. We brimmed with excitement instead of fear, and the 45 seconds of shaking ended by the time we were finally in position. All the years of perfectly executed earthquake drills, the instructions to climb under a desk or into a doorway, were immediately forgotten in a moment of confusion—<em>is this an earthquake?</em></p>  <p style="text-indent:25px;">It was a 6.8-magnitude earthquake, a rating that straddled the cusp between “strong” and “major” on the Richter scale. It was an intraplate earthquake, a moment of shuddering that occurred far from any plate boundaries—a very rare and not well understood geologic event. The best that scientists can say is that it was a blip, a minute where a usually stable interior fault lost control as underground rock changed from one form to another; it was a moment when a quiet fault needed to announce itself, needed to remind us that it was there. </p> <p style="text-indent:25px;">Nearly 500 people were injured. Un-reinforced buildings in the oldest parts of Seattle and Tacoma cracked and splintered, bricks broke free from their bindings and burst to dust on the ground. Fractures raced up Sea-Tac Airport’s air traffic control tower and one of the state’s largest military and air force bases shut down. The Alaskan Way Viaduct in Seattle, a major city thoroughfare, and its accompanying seawall came near to collapse. But we were lucky—the earthquake, while unarguably strong, was no Cascadia quake.</p>  <p style="text-indent:25px;">Yet its rarity brought worry—perhaps the 2001 Nisqually quake was the opening act. Perhaps the great gap in the ocean was about to yawn open, to treat the Pacific Northwest to a megathrust earthquake, an even rarer geologic show. </p> <p style="text-indent:25px;">We thought, maybe this is it—maybe this is the moment where everything comes to an end. But the earth quieted, the buildings were repaired, and life continued. And so we wait. We talk about the day “The Big One” hits in mocking tones, and we shrug away worry with sarcasm.</p>   </br> <p style="text-indent:25px;">It isn’t just a low-level of anxiety and a threat of earthquakes that the Cascadia Subduction Zone gifts to the Pacific Northwest; it provides transformation, movement, a yearning for something different. Mountains are made and destroyed as the fault shifts. Volcanoes burst, glaciers melt, and lahars race down the mountainsides, a churning black mix of mud, ash and tree limbs. We can’t sit still in western Washington; neither can the land. Our mountains are young, still new and sharp, still climbing as high as they can before they find their apex. Western Washington industries thrive on innovation and invention; Seattle is one of America’s most liberal, socially progressive cities, and people flock to its borders to seek change.</p>  <p style="text-indent:25px;">But this quest for transformation isn’t without risk. After all, a spot on the Ring of Fire means more than just beautiful, glaciated peaks; it means fiery, awesome, and often deadly eruptions. </p> <p style="text-indent:25px;">Five of the 20 volcanoes in the Cascade Mountain range, the chain of sharp peaks that traces the fault line, are contained within Washington’s borders, and thousands of volcanic vents pepper the slopes around them. All five are active. These are young, impetuous mountains; only seven million years have passed since they first began to rise, since the ground began to fold and they started their ascent toward the sky. Across the continent, the Appalachian Mountains had already been sinking, wearing down and leveling out, for more than 200 million years when the Cascades were first born. These are new mountains—wild and unpredictable. </p> <p style="text-indent:25px;">I see myself in these mountains. I wonder if I’ll ever be done—if I will ever reach my apex, contentment, and be ready to slow down, to settle down? Or will I always be in flux, always looking for something better, something different? I like to think these mountains molded me in their image—young, erratic, unpredictable—but I worry I might age beyond them, lose interest in them. Maybe one day I’ll become more like the mountains I see now from my new home on the other side of the country, the quiet, gentle Appalachians. Maybe I will seek soft sloping hills and a steady, reliable path. Have the thunderous Cascades truly shaped my life, or do I just like to pretend that they have?</p>   <p style="text-indent:25px;">These new mountains are prone to violent bursts of fire and molten rock—the Cascade volcanoes aren’t the slow-moving spectacle that created the Hawaiian Islands. They are stratovolcanoes, Krakatoas and Vesuviuses, places where the earth’s innards pour out of mammoth wounds at hundreds of miles per hour, oozing down mountainsides like thick pus and boiling blood.  All known eruptions in the contiguous United States have happened in the Cascade Mountains—and they have no plans to quiet down.</p>  <p style="text-indent:25px;">When Mt. St. Helens exploded May 18,1980, my grandfather heard the sound while he drank coffee and watched the morning news more than 200 miles away; it was a rumble, a boom, the sound of a distant car crash or the garage door opening. But at the mountain, it was a moment of terror. An earthquake at the mountain’s core caused the north face to shatter and slip away, to rumble toward Spirit Lake at 150 miles per hour. The molten rock inside the mountain, suddenly exposed to cold alpine air, responded to the pressure change by hurtling hot lava and pulverized rock toward the lake at near-supersonic speeds, a movement so fast that it overtook the avalanche. When the blast hit the lake, 860-foot tall tsunami waves displaced every drop of water and crashed into the surrounding forest, ripping thousands of trees from the ground and turning them into kindling. Ancient glaciers—frozen for thousands of years—melted in just minutes, mixed with ash and rock to send lahars speeding down the mountainside at 90 miles per hour. An 80,000-foot mushroom cloud of ash and rock fragments began to grow from the mountain’s crater, reaching into the stratosphere for 10 straight hours and spreading ash across 11 states. Lighting bolts crashed inside the plume, rained fire on forests outside of the blast zone. In Pullman, the city 360 miles east of the mountain where my uncle was studying at college, the ash cloud was so thick that by noon, it completely blacked out the sun. </p> <p style="text-indent:25px;">When Mt. St. Helens finally settled down, 230 square miles of forest had been felled, and thousands more trees outside the blow-down zone had been killed by extreme heat. Spirit Lake’s fish were flash-boiled, and nearly 10,000 forest animals were dead. Twelve million salmon that would have journeyed through the mountain’s alpine streams died, and agricultural crops downwind of the disaster were destroyed. At 24 megatons of thermal energy—1,600 times the power of the bomb dropped on Hiroshima—it was the most violent eruption in the United States’ history. </p> <p style="text-indent:25px;">It wasn’t an isolated incident for the mountain—from 2004 to 2008 Mt. St. Helens spewed ash and debris into the air, and shuddered under clusters of earthquakes while laboring to build a new lava dome. And it won’t be the only mountain in the chain to make a scene—Mt. Rainier, the crown jewel of Washington State, is considered one of the most dangerous volcanoes in the world. When it erupts—an event currently 50 years overdue—the lahars that flow down its steep slopes will be so strong that they’ll destroy the entire Puyallup River Valley and the seven major cities within it, as well as portions of downtown Seattle. They will spawn massive tsunamis in Lake Washington and Puget Sound. Mt. Rainier’s eruption, like the great Cascadia earthquake, is a sleeping disaster, one that geologists have no doubt will occur, but one that we put out of our minds. We will worry about another day.</p> <p style="text-indent:25px;">Does the earth have a plan for these mountains? Do they know which will rise up and which will be blown to pieces? Do they know which will be plagued by earthquakes and which will grow serene alpine meadows? I hope not. I want them to be as anxious and unsure as me; I want them to make decisions on a whim, to change their course with just as little forethought. I want to think that I feel this way for a reason—curious, unfocused, always yearning for something new and better. I want to think that the earth taught me to be this way, encouraged me to be; I want to think the earth took interest in me, cares for me just as much as I do for it. </p> </br> <p style="text-indent:25px;">Washington is still today; I scan the USGS app on my phone to see the number and size of recent earthquakes in its corner of the world, but there is nothing. Not even the slightest shake in the past 24 hours. I wonder what it means. Does the stillness symbolize rest, peace, safety—or is it just a moment to prepare, the quiet breath the earth takes before it begins to move? </p> <p style="text-indent:25px;">I wonder what it means to worship at the altar of such a dangerous place. We hail Washington as a land of wild, majestic beauty, but all that glory is created in destruction. We dig in, build homes and families, settle in a landscape that one day will be shattered, burned, blown away—we take the risk for love of the land. When Mt. St. Helens burst, one of its first victims was Harry R. Truman, an 83-year-old man who refused to leave his lodge on Spirit Lake, insisting instead that if the mountain went, he would go with it. He chose death over separation from the land; he didn’t want to live if his lake were decimated.</p>  <p style="text-indent:25px;">Why do we forge these bonds with a place that has no regard for us? Why do we want so desperately to belong when all the earth will do is destroy us? I don’t know why I cling to such a threatening landscape. I see the mountains in western Pennsylvania where I now live, soft and aging, and I scoff. I want to insist to people that these gentle hills can’t be mountains; I want them to understand that I’ve seen mountains, that I know mountains. I want to embrace the danger of that landscape, to be a part of it, even while I know I should be frightened by it. Perhaps this devotion to the land isn’t as innocent as it seems; maybe if we love the land, care for it, it will care for us, too. Maybe we seek belonging in place because we know the land won’t turn us away.</p> <p style="text-indent:25px;">When I packed my boxes before I moved to Pittsburgh for graduate school, I left all the bolts and screws and straps that secured my furniture to the walls behind. I imagined stacking dishes on wobbly shelves and hanging glass lanterns above my bed. I wondered what it would be like to drive through a tunnel or across a bridge without the word earthquake creeping quietly into my thoughts. </p> <p style="text-indent:25px;">But the day I arrived in Pittsburgh, a 5.5-magnitude earthquake sprang loose in the Virginia soil and sent shockwaves across a dozen eastern states. I was driving at the time, speeding up and down hills and swerving around potholes, so I didn’t feel it; but when my mother and I sat in a hotel room that night and listened to a dozen news reports announce the rare eastern quake, I stared dumbly at the television. Of all the things I had prepared myself for with the move—hurricanes, tornados, ice storms, snowstorms, thunder and lightning—earthquakes were not on the list. Maybe my anxious, unsettled feelings were nothing special after all, had nothing to do with a deep connection to the land; or maybe they were so strong that I had triggered that earthquake. Maybe I brought a lot more than just furniture with me to Pittsburgh.</p>  <p style="text-indent:25px;">Do I tap my foot in time to the earth’s pulse? Does my stress level crest and breaks with the plates beneath me? I’m not sure if there’s a difference between a perceived and true connection to the land, but I don’t care—I’ll accept anything to feel like a part of the western Washington landscape, for it to feel like a part of me. I want to share something special with it, to wrap my identity in it, but I wonder—is it really this place that I’m drawn to, or just the need for one? Perhaps all I really want is somewhere to belong, somewhere that I can call mine, a place that sets me apart and makes me special.  </p> <p style="text-indent:25px;">Maybe that’s why Washington means so much more to me now that I live in Pittsburgh—because here, I don’t have to share it. Here, memories, feelings, interpretations aren’t colored by anyone else’s experiences. Here, Washington is what I want it to be. In Pittsburgh, I can blame my anxieties on a restless landscape; in Washington, there is always someone who can contradict me. But whatever the reasons are—all of them or none of them—I can’t stop this place from gnawing at me from the inside, from mingling with my blood and infecting every brain cell. It’s the place I always turn to, on which I always dwell. I still watch its weather reports, still read its news, still carry its driver’s license in my pocket. I look at USGS reports and wonder, what if it happens while I’m away? What if the land cracks open and begins to swallow people whole while I nap on the couch three time zones across the country? What if the mountains crumble and spew fire across the horizon while I quietly hike through a rival range? <em>What if it happens while I’m away?</em> I can’t imagine the destruction, I don’t want to, but I also can’t imagine not being a part of it, a part of that moment in the earth’s history. I envy my parents’ memories of the 1965 Olympia earthquake, of Mt. St. Helens’ eruption—I want my moment in history. So when the plates finally shift below Washington, when the mountains awaken in a burst of bright passion, I hope that I’m there to see it through. </p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>Katie Regan</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.2,47.5,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p18">
+			<name>Ed Meek</name>
+			<open>1</open>
+			<snippet></snippet>
+			<styleUrl>#style_Template20</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value><![CDATA[<b>Volcano Park</b>]]></value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p> In case you forgot</br>  what burns beneath</br> the surface of the earth,</br> pay a visit to Pele,</br> goddess of the volcano,</br> on the big island of Hawaii</br> where a fire river of lava</br> tunnels through molten rock.</br> You can catch Kilauea’s flow—</br> luminous at night—</br> from black pahoehoe cliffs</br> that overlook Kau loa Point;</br> locals call it the witch’s nose.</br> Gleaming lava cascades from her mouth</br> into the Pacific ocean</br> where it clashes with crashing waves,</br> crackles and spits steam and gas</br> into a vast sky. Just in case</br> you forgot what simmers</br> at 2000 degrees</br> two miles beneath</br> the surface of the earth…</br> </p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>Ed Meek</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-155.2,19.3,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-105.1721392195236,21.88271536225429,0 -106.633664456562,24.33287114471917,0 -109.6517321154377,26.87314743290519,0 -111.6242274442641,29.2267284580056,0 -113.5790796974369,32.97504830631487,0 -116.1661977498024,33.33243840754404,0 -116.3427070743706,33.77354359261995,0 -118.3565007619543,35.37069637810249,0 -118.8029898816477,37.08101373191551,0 -118.9132570689639,38.07773834926386,0 -119.9170898343111,40.22318585611321,0 -120.4950311405796,43.15129302832708,0 -120.1224757879364,49.14130408237309,0 -122.604737643915,51.09291834729519,0 -123.7007069891107,51.51699905818576,0 -125.2336713373929,52.29928145305442,0 -125.3476498311839,52.3273802046116,0 -125.359279259699,52.37977455853185,0 -125.3712680667077,52.43183508382997,0 -125.3932379133546,52.51421985009945,0 -125.3852542687707,52.58513721406849,0 -125.4009450464078,52.68165431418953,0 -125.4405321881028,52.72423767360557,0 -125.4484615522771,52.73275446455657,0 -125.5119592086564,52.80099246921396,0 -125.544033544821,52.83481030293414,0 -125.5761646668453,52.86862699912547,0 -125.6325311954181,52.92780224331806,0 -125.7167457762897,52.97718952722246,0 -125.8311869326034,53.03868928077969,0 -125.8473344505515,53.05578699272895,0 -125.9343132066663,53.12741450393552,0 -125.9750511115617,53.16998386814409,0 -126.0135547484697,53.19037395206812,0 -127.7433678183642,54.33902018076433,0 -129.111340245168,55.67011767495167,0 -131.7674808587235,58.37198169958026,0 -135.7575607443455,60.1001198721593,0 -139.978508842406,61.38548084933427,0 -145.878052906259,63.29071514117318,0 -150.6671785803244,63.00806804459833,0 -153.4085580968491,62.16814205932088,0 -153.6607357123183,60.79041996863302,0 -153.831642881941,59.9216926799834,0 -155.150252083912,58.91485530260121,0 -155.3773222070988,58.17142157956436,0 -156.7896572912798,57.42892282332695,0 -158.6821380978957,56.58218821690042,0 -165.8413883105784,54.39486478113812,0 -169.2140579841593,53.21422979242806,0 -171.7816173204464,52.53916406967679,0 -173.6399348603039,52.62220894147443,0 -178.5161753644853,51.79380073090601,0 -181.5291306872917,52.17172870412457,0 -186.9811560722118,53.17978238035985,0 -196.3053900413161,57.27183100116466,0 -197.1340209742809,55.85934145290203,0 -198.5031250203101,54.89022638981957,0 -200.8798482042928,52.76552048781616,0 -204.7472401362765,48.33841880268244,0 -213.181784962979,43.91675177437973,0 -217.1122151388361,43.59531227166243,0 -219.0749670044007,40.03025929350961,0 -220.8434877579017,36.57799836296102,0 -223.4271525768502,35.43008631182597,0 -226.3055248299563,34.35046393092325,0 -229.0400926424055,32.89697764896486,0 -231.6021953780712,30.38568248714845,0 -232.6254962211807,28.64925676075601,0 -234.8992238543426,26.1118160916111,0 -238.4789630265501,24.15785273535811,0 -238.688184410486,22.24733699819969,0 -238.2284377564233,18.93075644512241,0 -238.2885765063817,18.14425312003473,0 -238.2565601113638,16.5766817640111,0 -236.2244162044811,15.45527165390654,0 -234.1181199154946,10.40538017100744,0 -232.8628631118984,6.920768675564767,0 -232.0872167915901,4.51644797379825,0 -231.1186394004206,2.530649346987941,0 -228.6072743987082,0.2131086503758986,0 -224.5692816938185,-0.2899667547537918,0 -219.2356741167244,-2.56364193390248,0 -214.0088805790123,-5.268329252675968,0 -211.3842253361104,-5.618043445375328,0 -208.1105867700294,-4.871217746822769,0 -206.1092032752005,-6.137038534086091,0 -201.0034563012061,-9.265194067589363,0 -200.2958987942008,-9.588907335451196,0 -199.6351383534991,-9.42894759850452,0 -199.6833760430632,-9.547046751948109,0 -199.7071866244741,-9.721468105329091,0 -199.6583419555168,-9.8340907835636,0 -199.6219474742669,-9.918291269954835,0 -199.577661303535,-10.09756114705095,0 -199.5171382143165,-10.23753815449825,0 -199.4566609640702,-10.37735248878508,0 -199.3355561118051,-10.42755924891356,0 -199.1862781298669,-10.46644496431308,0 -199.0088472592801,-10.49401110127505,0 -194.4342136330713,-11.42797812197219,0 -194.0685470866722,-13.10417653074694,0 -193.6217177358472,-15.71577248201041,0 -193.0571771385269,-17.6926862192651,0 -192.5437589570742,-19.06752394652623,0 -191.1393389850765,-21.21837486400092,0 -188.858695707059,-23.17319088440967,0 -183.4240940022219,-21.13446456892854,0 -179.5442335632081,-16.6374154619236,0 -176.4856040033185,-17.54925045724244,0 -175.8017593617553,-20.34071373330436,0 -174.8209219305856,-23.41977937978146,0 -175.0268245650725,-23.6618715730403,0 -181.2899253565834,-39.39975822391457,0 -176.3411008889132,-43.23793997349002,0 -170.8595917470127,-43.58183570138781,0 -167.0263589358698,-41.86555407785352,0 -165.377834181786,-41.97408527087609,0 -163.5002962632991,-42.09261503183609,0 -157.3092517082024,-45.77613526805824,0 -142.9099486383522,-52.05326993825136,0 -103.5507271031569,-60.72940801627377,0 -65.49333638738142,-55.08170924935776,0 -67.85074571429753,-54.48351758857919,0 -71.48303448958235,-53.44129154959671,0 -72.65123621329082,-52.585485294935,0 -72.35526515968405,-48.24448787193727,0 -71.30220375426141,-43.3744100510046,0 -67.17424231159555,-34.95324177176577,0 -65.27959653778918,-24.27422486466274,0 -64.4166450172111,-21.55926406823415,0 -63.6721416610937,-18.18851249813848,0 -67.76301260665055,-16.08706369675621,0 -68.14600571358291,-15.59624678748866,0 -72.05276038420239,-13.06732631008787,0 -73.70221744656742,-13.59363636762705,0 -77.22906210357563,-8.943648085345124,0 -78.9682228694991,-5.865381252681139,0 -78.56088275234112,-2.962140997447632,0 -78.17374209497575,-0.9284141450768679,0 -74.91107486387161,3.180615722311968,0 -72.95995228648587,7.587477091213073,0 -81.86125855057115,8.198074891361424,0 -87.07733965372658,12.82178085343501,0 -89.1685162074608,13.49964799385193,0 -90.93202962570264,14.03268147965369,0 -94.33162982832002,16.24681106340883,0 -95.47489988995666,16.08434229914992,0 -96.63562359533447,16.11780433629031,0 -102.6490292696254,18.60413260194457,0 -105.0216048260762,20.63211588099523,0 -105.1721392195236,21.88271536225429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="p11">
+			<name>Maureen Alsop</name>
+			<snippet></snippet>
+			<styleUrl>#style_Template2</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value>Invocation</value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p>In old prescriptions I was the river’s speed, time multiplying the trauma.  The first loss before fragment. Glimpse what we were before.  Which wakes past the earth into the deep shore. Sunlit swan, the wings our words imagined.</p> <br/> <p>If I am what reaches autumn, thermal, not threshold—  the measurements of assemblage or recognition.  I locked the house. Endless my keys turning.  Multiply the spill. The hinter drones. Away, I am the possibility— a dedication or a window.</p> <br/> <p>Geography, a reflection undertaken fiercely within dreams seen by the other woman’s body.  This side is also not like the self. I saw my mother this way.</p> <br/> <p>And she myself was seen by the other body. The other: absolute, stunned.</p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>~Maureen Alsop</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.530598,33.802174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p12">
+			<name>Maureen Alsop</name>
+			<snippet></snippet>
+			<styleUrl>#style_Template2</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value>Imperial Valley</value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p>After each cadence my name grows loose with ash—Maybe  the deer you observe at dusk surrender a certain smallness. No  pressures wrong the body. Oak tree shifts a blood-odor. Against  mathematical argument. I dreamt your face. Sun stout  heroism. The moon drifts.</p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>~Maureen Alsop</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.963301,32.737548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p13">
+			<name>Aimee Norton</name>
+			<address>799 Embarcadero Rd, Palo Alto, CA 94303, USA</address>
+			<snippet></snippet>
+			<styleUrl>#style_Template2</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value>Earthquake Preparedness</value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p>Such futility in common advice: <br/>  <em>Avoid elevators, multi-level parking<br/>  structures and affairs with your boss. </em></p> <br/> <p><em>Duck and cover.  Clasp both hands <br/> across the back of your neck.</em><br/> There is no indemnity from The Big One.<br/></p>    <br/> <p>No bitten-to-the-quick hoarder's insurance<br/> will take effect.  Although a fire station <br/> three blocks away comforts by its redness, <br/>  </p>  <p>there is no magic in the siren's wail, <br/> how it blurs the real and the imagined <br/> in the dead of the dying night.<br/></p>  <br/> <p>When the time comes,<br/> when the plates shift,<br/> millions of 911 calls<br/></p> <br/> <p>will die in the wires,<br/> the Richter number will writhe,<br/> and the fault line will lie back, satisfied.<br/></p> <br/> <p>Both base and capstone will crumble<br/> as gravity levies its tax.<br/> Specks will fly in everyone's eyes.<br/></p> <br/> <p>Buying bottled water won't save us.<br/>  Nor will a predetermined meeting place.<br/> Don't stockpile food. <br/></p> <br/> <p>Stop thinking about triangular bandages.<br/>  Forget syrup of ipecac <br/> and tongue blades.<br/></p> <br/> <p>Throw wrenches and comfortable shoes<br/> out the window. The only readiness required<br/> is to know your neighbors names and<br/></p> <br/><p>memorize a few sweet songs <br/> entirely, every stanza<br/> learned by heart.  <br/> </p> <br/> <p>Sing these to the children<br/> trapped in the rubble<br/> for days. <br/> </p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>~Aimee Norton</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-122.140097,37.44322,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						-122.140097,37.44322,0 -122.140097,37.44322,0 -122.140097,37.44322,0 -122.140097,37.44322,0 -122.140097,37.44322,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="p14">
+			<name>Rob Jacques</name>
+			<snippet></snippet>
+			<styleUrl>#style_Template2</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value>Lituya Bay</value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p>Seventeen hundred feet:  who could believe it?<br/> A misprint on a map?  An asteroidal ocean plunge,<br/> perhaps, dinosaurs washed from shore into oblivion<br/> by such a wave of high, cataclysmic calamity,<br/> but in 1958?  There were stunned witnesses who<br/> did not go mad, sailors in fishing boats riding<br/> up, up, up, surfing the greatest wave in history.<br/></p> <br/> <p>The inappropriately named Fairweather Fault<br/> slipped.  Forty million cubic yards of solid rock<br/> plunged.  An equal amount of displaced seawater<br/> rose.  The basalt bottom of the funnel-shaped bay<br/> tilted.  A tsunami sloshed across Gilbert Inlet and<br/> fumed, scouring both sides of the bay, spelling<br/> doom.  Sailors afloat watched and awaited death.<br/></p> <br/> <p>Two were not disappointed, their fishing boat<br/> crushed under a million tons of the Apocalypse.<br/> Three others held on for the ride of their lives,<br/> their two boats rising to vertiginous altitudes<br/> no fisherman expects to reach on a sea’s surface,<br/> performing antic acrobatics never again achieved<br/> except in Hollywood’s computer-generated art.<br/></p> <br/> <p>It’s quiet now.  Tourists gawk at scars high up<br/> on denuded cliffs, on barren Cenotaph Island,<br/> so aptly named honoring two who died and lie <br/> elsewhere.  Tourists take pictures, and tourists<br/> joke.  They stand with delight on cruise ships<br/> minus sanctity, scanning the silent bay, laughing<br/> and wishing they had been there for the sight<br/></p> <br/> <p>of a wall of water Empire State Building high<br/> pushing the whole Book of Revelations before it<br/> toward the attenuating sea, the serenely awaiting<br/> Pacific Ocean that absorbs hellacious miseries,<br/> becoming calm again until history repeats itself,<br/> Fairweather Fault doing what it has done before,<br/> a  tectonic fury not a matter of “if,” but “when.” <br/></p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>~Rob Jacques</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-137.572539,58.640135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p15">
+			<name>Kari Wergeland</name>
+			<snippet></snippet>
+			<styleUrl>#style_Template2</styleUrl>
+			<ExtendedData>
+				<Data name="Title">
+					<value><![CDATA[<b>Tsunami Warning System</b>]]></value>
+				</Data>
+				<Data name="Subtitle">
+				</Data>
+				<Data name="Paragraph_1_Text">
+					<value><![CDATA[<p>Disaster movies once arrived<br/> at the Varsity<br/> in my hometown,<br/> where I sat under the sea,<br/> gripping the dramatic music<br/> as the boat went down<br/> and the bodies flowed around me.<br/> Sometimes I shut my eyes.<br/></p> <br/> <p>When the siren goes off,<br/> we never get into our cars<br/> and drive to the top<br/> of Horizon Hill.<br/> <em>This is just a test.</em><br/></p> <br/> <p>I hear the surf at night,<br/> and sometimes I imagine<br/> Hokusai’s Great Wave<br/> coming down on my cabin,<br/> that giant wall smashing<br/> tongue and groove siding.<br/></p>  <p>I didn’t see<br/> the great wave break—<br/> just water flowing in slow motion,<br/> moving over farmland;<br/> and I didn’t see any bodies,<br/> just quaint houses floating down the street;<br/></p><br/> rows and rows of cars bobbing into the river,<br/> on the Internet—<br/> clip after clip<br/> playing out in little windows.<br/></p>]]></value>
+				</Data>
+				<Data name="Paragraph_2_Text">
+					<value><![CDATA[<em>~Kari Wergeland</em>]]></value>
+				</Data>
+				<Data name="Link_URL">
+				</Data>
+				<Data name="Link_Text">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.000044,44.000184,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>ROF_Overlay</name>
+			<Icon>
+				<href>http://www.cascadiachronicle.com/images/fire.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>36.41384477424186</north>
+				<south>-6.268964277598595</south>
+				<east>-129.3355596895803</east>
+				<west>-176.5284183781796</west>
+				<rotation>6.944032628664408</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Document>
+</kml>
